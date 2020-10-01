@@ -18,7 +18,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/BmdXeEa.gif" width=250><br>
+![Alt text](flix_p2.gif)
 
 ### Notes
 
